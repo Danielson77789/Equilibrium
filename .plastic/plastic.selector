@@ -1,0 +1,4 @@
+repository "Equilibrium@HexPaladin@cloud"
+  path "/"
+    br "/main"
+    co "/main"
